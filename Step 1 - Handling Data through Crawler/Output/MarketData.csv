@@ -1,0 +1,102 @@
+Year,Rank,Company,Revenue,PAT,MCAP
+,,,,,
+2019,1,Reliance Industries Ltd.,575873,39588,949280.41
+2019,2,Indian Oil Corporation Ltd.,532247.59,17376.7,125768.47
+2019,3,Oil And Natural Gas Corporation Ltd.,432962.31,30494.96,172135.97
+2019,4,State Bank of India,330687.36,2299.64,290140.98
+2019,5,Tata Motors Ltd.,305280.69,-28826.23,48588.33
+2019,6,Bharat Petroleum Corporation Ltd.,301200.45,7802.3,9111550.97
+2019,7,Hindustan Petroleum Corporation Ltd.,277816.42,6690.63,45237.26
+2019,8,Rajesh Exports Ltd.,175830.66,1292.13,20200
+2019,9,Tata Steel Ltd.,159738.75,10218.33,45758.52
+2019,10,Coal India Ltd.,153127.54,17461.85,170587.02
+2018,1,Indian Oil Corporation Ltd.,424321.37,22189.45,130903.64
+2018,2,Reliance Industries Ltd.,410295,36075,697852.58
+2018,3,Oil And Natural Gas Corporation Ltd.,333143.09,22105.93,203147.13
+2018,4,State Bank of India,306527.52,-4556.29,235872.93
+2018,5,Tata Motors Ltd.,301174.85,8988.91,54304.18
+2018,6,Bharat Petroleum Corporation Ltd.,238638.07,9008.63,62627.8
+2018,7,Hindustan Petroleum Corporation Ltd.,221693.11,7218.28,32416.01
+2018,8,Rajesh Exports Ltd.,187748.1,1265.79,17889.56
+2018,9,Tata Steel Ltd.,147192.09,13434.33,67922.8
+2018,10,Coal India Ltd.,132897.34,7020.34,170587.02
+2017,1,Indian Oil Corporation Ltd.,359822.56,19849.49,200648.22
+2017,2,Reliance Industries Ltd.,314717,29901,560000.93
+2017,3,State Bank of India,298640.45,241.23,230736.03
+2017,4,Tata Motors Ltd.,271629.22,7454.36,122713.1
+2017,5,Rajesh Exports Ltd.,242179.13,1243.63,23937.76
+2017,6,Bharat Petroleum Corporation Ltd.,204241.8,9506.97,109252.65
+2017,7,Hindustan Petroleum Corporation Ltd.,191196.26,8235.82,69244.29
+2017,8,Oil And Natural Gas Corporation Ltd.,136367.32,20497.87,223946.46
+2017,9,Coal India Ltd.,124976.54,9265.98,176793.24
+2017,10,Tata Consultancy Services Ltd.,122187,26289,485395.17
+2016,1,Indian Oil Corporation Ltd.,366499,11219,154949
+2016,2,Reliance Industries Ltd.,284790,27630,348859
+2016,3,Tata Motors Ltd.,276543,11024,158057
+2016,4,State Bank of India,272871,12225,199578
+2016,5,Bharat Petroleum Corporation Ltd.,190392,7982,95891
+2016,6,Hindustan Petroleum Corporation Ltd.,188736,4921,45343
+2016,7,Rajesh Exports Ltd.,165220,1069,14304
+2016,8,Oil And Natural Gas Corporation Ltd.,139364,14124,238144
+2016,9,Tata Steel Ltd.,128388,-3049,39696
+2016,10,Tata Consultancy Services Ltd.,111700,24292,471205
+2015,1,Indian Oil Corporation Ltd.,461765.33,4912.02,96444.24
+2015,2,Reliance Industries Ltd.,384048,23566,276995.35
+2015,3,Tata Motors Ltd.,263695.07,13986.29,93712.74
+2015,4,State Bank of India,257289.51,16994.3,177643.03
+2015,5,Bharat Petroleum Corporation Ltd.,244718.55,4806.57,61905.05
+2015,6,Hindustan Petroleum Corporation Ltd.,218458.93,1498.58,26490.01
+2015,7,Oil And Natural Gas Corporation Ltd.,166883.65,18333.52,196857.32
+2015,8,Tata Steel Ltd.,142762.11,-3925.52,21740.27
+2015,9,Hindalco Industries Ltd.,105658.99,854.21,15393.03
+2015,10,Tata Consultancy Services Ltd.,98368.07,19852.18,501044.76
+2014,1,Indian Oil Corporation Ltd.,499720.45,7085.59,84008.35
+2014,2,Reliance Industries Ltd.,443461,22493,320987.69
+2014,3,Bharat Petroleum Corporation Ltd.,265806.38,3910.68,45429.97
+2014,4,Hindustan Petroleum Corporation Ltd.,235518.42,1080.37,14578.29
+2014,5,Tata Motors Ltd.,233662.25,13991.02,155333.02
+2014,6,State Bank of India,226944.57,14173.78,182523.79
+2014,7,Oil And Natural Gas Corporation Ltd.,181408.75,26506.53,352969.84
+2014,8,Tata Steel Ltd.,149148.56,3594.89,52349.5
+2014,9,Essar Oil Ltd.,99473,126,18011.59
+2014,10,Hindalco Industries Ltd.,88712.69,2175.01,37441.71
+2013,1,Indian Oil Corporation Ltd.,470352.29,4449.01,49843.5
+2013,2,Reliance Industries Ltd.,404929,20879,281815.89
+2013,3,Bharat Petroleum Corporation Ltd.,243709.97,1880.83,25268.55
+2013,4,Hindustan Petroleum Corporation Ltd.,217605.9,501.3,7641.02
+2013,5,State Bank of India,200559.84,17916.23,122126.39
+2013,6,Tata Motors Ltd.,189629.16,9892.61,121853.9
+2013,7,Oil And Natural Gas Corporation Ltd.,167165.66,24219.64,246255.23
+2013,8,Tata Steel Ltd.,136156.72,-7057.62,40544.32
+2013,9,Coal India Ltd.,93012.18,17356.36,178629.67
+2013,10,Essar Oil Ltd.,92710.62,-1180.44,7882.5
+2012,1,Indian Oil Corporation Ltd. ,416816.18,4225.98,62615.62
+2012,2,Reliance Industries Ltd. ,364695,19724,265123.17
+2012,3,Bharat Petroleum Corporation Ltd. ,213596.23,780.83,25231.15
+2012,4,Hindustan Petroleum Corporation Ltd. ,186327.55,174.65,10406.83
+2012,5,State Bank of India ,177032.83,15343.1,150592.45
+2012,6,Tata Motors Ltd. ,166316.26,13516.5,85331.91
+2012,7,Oil And Natural Gas Corporation Ltd. ,154147.26,28143.62,238520.37
+2012,8,Tata Steel Ltd. ,137834.65,5389.77,39595.5
+2012,9,Coal India Ltd. ,82641.61,14788.2,225301.4
+2012,10,Hindalco Industries Ltd. ,81604.44,3396.95,22534.54
+2011,1,Indian Oil Corporation Ltd.,313627.87,7830.72,73497.88
+2011,2,Reliance Industries Ltd.,268354,20211,273782.59
+2011,3,Bharat Petroleum Corporation Ltd.,155370.19,1634.96,23681.44
+2011,4,State Bank of India,147843.92,10684.95,117853.98
+2011,5,Hindustan Petroleum Corporation Ltd.,140000.31,1703.6,11934.77
+2011,6,Oil And Natural Gas Corporation Ltd.,124556.42,22455.93,231052
+2011,7,Tata Motors Ltd.,123222.91,9273.62,56499.77
+2011,8,Tata Steel Ltd.,119734.1,8982.69,41849.83
+2011,9,Hindalco Industries Ltd.,72508.72,2456.37,24473.93
+2011,10,ICICI Bank Ltd.,61594.7,6093.27,99841.36
+2010,1,Indian Oil Corporation Ltd.,257559.91,10713.19,104335.37
+2010,2,Reliance Industries Ltd.,214532,15898,322991.33
+2010,3,State Bank of India,133851.83,11733.83,192994.6
+2010,4,Bharat Petroleum Corporation Ltd.,126181.92,1632.36,27885.41
+2010,5,Hindustan Petroleum Corporation Ltd.,113304.34,1475.29,18031.75
+2010,6,Oil And Natural Gas Corporation Ltd.,107065.85,19403.53,297257.1
+2010,7,Tata Steel Ltd.,103705.83,-2009.22,54362.06
+2010,8,Tata Motors Ltd.,94481.34,2571.06,59915
+2010,9,Hindalco Industries Ltd.,61044.82,3925.47,35689.22
+2010,10,ICICI Bank Ltd.,59599.77,4670.29,123216.47
