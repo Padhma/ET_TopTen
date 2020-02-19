@@ -1,0 +1,101 @@
+Year,Rank,Company,Type of Industry,IsPublicSector
+2019,1,Reliance Industries Ltd.,Conglomerate,No
+2019,2,Indian Oil Corporation Ltd.,"Oil, Gas",Yes
+2019,3,Oil And Natural Gas Corporation Ltd.,"Oil, Gas, Power",Yes
+2019,4,State Bank of India,Banking,Yes
+2019,5,Tata Motors Ltd.,Automobile,No
+2019,6,Bharat Petroleum Corporation Ltd.,"Oil, Gas",Yes
+2019,7,Hindustan Petroleum Corporation Ltd.,"Oil, Gas",Yes
+2019,8,Rajesh Exports Ltd.,"Mining, Refining, Retail",No
+2019,9,Tata Steel Ltd.,Steel,No
+2019,10,Coal India Ltd.,Mining,Yes
+2018,1,Indian Oil Corporation Ltd.,"Oil, Gas",Yes
+2018,2,Reliance Industries Ltd.,Conglomerate,No
+2018,3,Oil And Natural Gas Corporation Ltd.,"Oil, Gas, Power",Yes
+2018,4,State Bank of India,Banking,Yes
+2018,5,Tata Motors Ltd.,Automobile,No
+2018,6,Bharat Petroleum Corporation Ltd.,"Oil, Gas",Yes
+2018,7,Hindustan Petroleum Corporation Ltd.,"Oil, Gas",Yes
+2018,8,Rajesh Exports Ltd.,"Mining, Refining, Retail",No
+2018,9,Tata Steel Ltd.,Steel,No
+2018,10,Coal India Ltd.,Mining,Yes
+2017,1,Indian Oil Corporation Ltd.,"Oil, Gas",Yes
+2017,2,Reliance Industries Ltd.,Conglomerate,No
+2017,3,State Bank of India,Banking,Yes
+2017,4,Tata Motors Ltd.,Automobile,No
+2017,5,Rajesh Exports Ltd.,"Mining, Refining, Retail",No
+2017,6,Bharat Petroleum Corporation Ltd.,"Oil, Gas",Yes
+2017,7,Hindustan Petroleum Corporation Ltd.,"Oil, Gas",Yes
+2017,8,Oil And Natural Gas Corporation Ltd.,"Oil, Gas, Power",Yes
+2017,9,Coal India Ltd.,Mining,Yes
+2017,10,Tata Consultancy Services Ltd.,Information Technology,No
+2016,1,Indian Oil Corporation Ltd.,"Oil, Gas",Yes
+2016,2,Reliance Industries Ltd.,Conglomerate,No
+2016,3,Tata Motors Ltd.,Automobile,No
+2016,4,State Bank of India,Banking,Yes
+2016,5,Bharat Petroleum Corporation Ltd.,"Oil, Gas",Yes
+2016,6,Hindustan Petroleum Corporation Ltd.,"Oil, Gas",Yes
+2016,7,Rajesh Exports Ltd.,"Mining, Refining, Retail",No
+2016,8,Oil And Natural Gas Corporation Ltd.,"Oil, Gas, Power",Yes
+2016,9,Tata Steel Ltd.,Steel,No
+2016,10,Tata Consultancy Services Ltd.,Information Technology,No
+2015,1,Indian Oil Corporation Ltd.,"Oil, Gas",Yes
+2015,2,Reliance Industries Ltd.,Conglomerate,No
+2015,3,Tata Motors Ltd.,Automobile,No
+2015,4,State Bank of India,Banking,Yes
+2015,5,Bharat Petroleum Corporation Ltd.,"Oil, Gas",Yes
+2015,6,Hindustan Petroleum Corporation Ltd.,"Oil, Gas",Yes
+2015,7,Oil And Natural Gas Corporation Ltd.,"Oil, Gas, Power",Yes
+2015,8,Tata Steel Ltd.,Steel,No
+2015,9,Hindalco Industries Ltd.,Aluminium,No
+2015,10,Tata Consultancy Services Ltd.,Information Technology,No
+2014,1,Indian Oil Corporation Ltd.,"Oil, Gas",Yes
+2014,2,Reliance Industries Ltd.,Conglomerate,No
+2014,3,Bharat Petroleum Corporation Ltd.,"Oil, Gas",Yes
+2014,4,Hindustan Petroleum Corporation Ltd.,"Oil, Gas",Yes
+2014,5,Tata Motors Ltd.,Automobile,No
+2014,6,State Bank of India,Banking,Yes
+2014,7,Oil And Natural Gas Corporation Ltd.,"Oil, Gas, Power",Yes
+2014,8,Tata Steel Ltd.,Steel,No
+2014,9,Essar Oil Ltd.,"Oil, Gas",No
+2014,10,Hindalco Industries Ltd.,Aluminium,No
+2013,1,Indian Oil Corporation Ltd.,"Oil, Gas",Yes
+2013,2,Reliance Industries Ltd.,Conglomerate,No
+2013,3,Bharat Petroleum Corporation Ltd.,"Oil, Gas",Yes
+2013,4,Hindustan Petroleum Corporation Ltd.,"Oil, Gas",Yes
+2013,5,State Bank of India,Banking,Yes
+2013,6,Tata Motors Ltd.,Automobile,No
+2013,7,Oil And Natural Gas Corporation Ltd.,"Oil, Gas, Power",Yes
+2013,8,Tata Steel Ltd.,Steel,No
+2013,9,Coal India Ltd.,Mining,Yes
+2013,10,Essar Oil Ltd.,"Oil, Gas",No
+2012,1,Indian Oil Corporation Ltd.,"Oil, Gas",Yes
+2012,2,Reliance Industries Ltd.,Conglomerate,No
+2012,3,Bharat Petroleum Corporation Ltd.,"Oil, Gas",Yes
+2012,4,Hindustan Petroleum Corporation Ltd.,"Oil, Gas",Yes
+2012,5,State Bank of India,Banking,Yes
+2012,6,Tata Motors Ltd.,Automobile,No
+2012,7,Oil And Natural Gas Corporation Ltd.,"Oil, Gas, Power",Yes
+2012,8,Tata Steel Ltd.,Steel,No
+2012,9,Coal India Ltd.,Mining,Yes
+2012,10,Hindalco Industries Ltd.,Aluminium,No
+2011,1,Indian Oil Corporation Ltd.,"Oil, Gas",Yes
+2011,2,Reliance Industries Ltd.,Conglomerate,No
+2011,3,Bharat Petroleum Corporation Ltd.,"Oil, Gas",Yes
+2011,4,State Bank of India,Banking,Yes
+2011,5,Hindustan Petroleum Corporation Ltd.,"Oil, Gas",Yes
+2011,6,Oil And Natural Gas Corporation Ltd.,"Oil, Gas, Power",Yes
+2011,7,Tata Motors Ltd.,Automobile,No
+2011,8,Tata Steel Ltd.,Steel,No
+2011,9,Hindalco Industries Ltd.,Aluminium,No
+2011,10,ICICI Bank Ltd.,Banking,No
+2010,1,Indian Oil Corporation Ltd.,"Oil, Gas",Yes
+2010,2,Reliance Industries Ltd.,Conglomerate,No
+2010,3,State Bank of India,Banking,Yes
+2010,4,Bharat Petroleum Corporation Ltd.,"Oil, Gas",Yes
+2010,5,Hindustan Petroleum Corporation Ltd.,"Oil, Gas",Yes
+2010,6,Oil And Natural Gas Corporation Ltd.,"Oil, Gas, Power",Yes
+2010,7,Tata Steel Ltd.,Steel,No
+2010,8,Tata Motors Ltd.,Automobile,No
+2010,9,Hindalco Industries Ltd.,Aluminium,No
+2010,10,ICICI Bank Ltd.,Banking,No
